@@ -17,3 +17,7 @@ local.properties
 .idea/codeStyles/
 .idea/deviceManager.xml
 .idea/studiobot.xml
+
+# IDE / local tool settings
+.idea/
+.claude/
